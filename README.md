@@ -7,7 +7,7 @@ This repository contains the tasks completed during my C++ programming internshi
 ------------------------
 
 ## Task 2. Simple Social Network
-- Technologies: C++, File I/O, STL (`map`, `vector`, `set`)  
+- Technologies: C++, File I/O, STL (map, vector, set)  
 - Description: A console-based mini social network system where users can create profiles, add friends, and send direct messages.  
 - Features:
   - Create and store user profiles.
